@@ -1,0 +1,3 @@
+# Arquivo que não sobe ao Github os arquivos que você colocar aqui
+node_modules
+.env
